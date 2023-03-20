@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nothing-Weather-WebApp/static/css/main.073c9b0a.css",
+    "main.js": "/Nothing-Weather-WebApp/static/js/main.d5ffe067.js",
+    "static/js/787.5fae37d6.chunk.js": "/Nothing-Weather-WebApp/static/js/787.5fae37d6.chunk.js",
+    "static/media/logo.svg": "/Nothing-Weather-WebApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nothing-Weather-WebApp/index.html",
+    "main.073c9b0a.css.map": "/Nothing-Weather-WebApp/static/css/main.073c9b0a.css.map",
+    "main.d5ffe067.js.map": "/Nothing-Weather-WebApp/static/js/main.d5ffe067.js.map",
+    "787.5fae37d6.chunk.js.map": "/Nothing-Weather-WebApp/static/js/787.5fae37d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5ffe067.js"
+  ]
+}
